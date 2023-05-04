@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """create blueprint"""
 from flask import Blueprint
 
